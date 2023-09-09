@@ -1,0 +1,1 @@
+ALTER TABLE "testTable" ALTER COLUMN "date" SET DEFAULT now();
